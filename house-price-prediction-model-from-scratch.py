@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 # Load data
-data = pd.read_csv(r"C:\Users\ADITYA\Desktop\Jupyter\ML-projects\proce prediction model.csv")
+data = pd.read_csv(r"C:\Users\ADITYA\Desktop\Jupyter\ML-projects\price prediction model.csv")
 
 # Features and target
 X = data[["size", "bedrooms", "age"]].values
