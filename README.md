@@ -84,10 +84,11 @@ The model is evaluated using:
 Example Output:
 
 ```text
-MAE  : XXXXX
-MSE  : XXXXX
-RMSE : XXXXX
-R²   : XXXXX
+Model Evaluation on Test Data
+MAE  : 21418.92
+MSE  : 628389579.20
+RMSE : 25067.70
+R²   : 0.9892
 ```
 
 ---
@@ -117,11 +118,11 @@ The model then predicts the estimated house price.
 Example:
 
 ```text
-Enter size: 1800
-Enter bedrooms: 3
-Enter age: 5
+Enter size:  1000
+Enter bedrooms:  4
+Enter age:  23
 
-Predicted Price: 542,000
+Predicted Price: 522,829.64
 ```
 
 ---
