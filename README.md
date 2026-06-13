@@ -133,7 +133,7 @@ Predicted Price: 522,829.64
 House-Price-Prediction/
 │
 ├── house_price_prediction.py
-├── proce prediction model.csv
+├── price prediction model.csv
 ├── README.md
 └── screenshots/
     ├── cost_reduction.png
